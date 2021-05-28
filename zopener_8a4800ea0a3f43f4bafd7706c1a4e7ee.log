@@ -1,0 +1,12 @@
+[12984:12924:2021-5-29 0:18:59.938] Main Start
+[12984:12924:2021-5-29 0:18:59.938] Command line:"C:\Users\Ç³Ë®Óã\Downloads\Zoom_cm_fo42anktZ9vvrZo4_mbUKsUT+VwOchTYCBI7y7IFnioFAa6T-QdjSe@0xGN2M8VidVMn4DN_k24c25b1b17eec088_.exe"  Instance:0x460000 Show State:1
+[12984:12924:2021-5-29 0:19:0.85] C:\
+[12984:23380:2021-5-29 0:19:0.87] [process_requst] start, url:https://us02web.zoom.us/conf/launch
+[12984:23380:2021-5-29 0:19:1.926] HttpSendRequest API failed1, error code: 12029
+[12984:23380:2021-5-29 0:19:3.733] HttpSendRequest API failed, error code: 12029
+[12984:23380:2021-5-29 0:19:3.733] [process_requst] End for url:https://us02web.zoom.us/conf/launch, return code:0, Error:1006, Response content size:0
+[12984:23380:2021-5-29 0:19:3.762] [process_requst] start, url:https://us02web.zoom.us/conf/launch
+[12984:23380:2021-5-29 0:19:5.567] HttpSendRequest API failed1, error code: 12029
+[12984:23380:2021-5-29 0:19:7.387] HttpSendRequest API failed, error code: 12029
+[12984:23380:2021-5-29 0:19:7.387] [process_requst] End for url:https://us02web.zoom.us/conf/launch, return code:0, Error:1006, Response content size:0
+[12984:12924:2021-5-29 0:19:7.431] Main End
